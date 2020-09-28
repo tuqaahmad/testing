@@ -7,4 +7,3 @@ const age='21';
 console.log(age);
 
 console.log('COOL');
-console.log('COOL MAN');
