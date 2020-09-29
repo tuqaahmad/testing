@@ -7,3 +7,6 @@ const age='21';
 console.log(age);
 
 console.log('COOL');
+
+console.log('Are you thirst?');
+console.log('Drink water');
